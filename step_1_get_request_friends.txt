@@ -1,0 +1,51 @@
+Request URL:https://www.linkedin.com/voyager/api/relationships/invitationViews?count=10&includeInsights=true&q=receivedInvitation&start=0
+Request Method:GET
+Status Code:200 
+Remote Address:185.63.144.1:443
+Referrer Policy:no-referrer-when-downgrade
+Response Headers
+cache-control:no-cache, no-store
+content-encoding:gzip
+content-security-policy:default-src *; img-src data: blob: *; font-src data: *; style-src 'unsafe-inline' 'self' static-src.linkedin.com *.licdn.com; script-src 'report-sample' 'unsafe-inline' 'unsafe-eval' 'self' platform.linkedin.com spdy.linkedin.com static-src.linkedin.com *.ads.linkedin.com *.licdn.com static.chartbeat.com www.google-analytics.com ssl.google-analytics.com bcvipva02.rightnowtech.com www.bizographics.com sjs.bizographics.com js.bizographics.com d.la4-c1-was.salesforceliveagent.com slideshare.www.linkedin.com; object-src static.licdn.com www.youtube.com; media-src blob: *; child-src blob: lnkd-communities: voyager: *; frame-ancestors 'self'; connect-src * lnkd-communities: voyager:; report-uri https://www.linkedin.com/lite/contentsecurity?f=l
+content-type:application/vnd.linkedin.normalized+json; charset=UTF-8
+date:Tue, 06 Feb 2018 10:58:13 GMT
+expires:Thu, 01 Jan 1970 00:00:00 GMT
+pragma:no-cache
+server:Play
+status:200
+strict-transport-security:max-age=2592000
+x-content-type-options:nosniff
+x-frame-options:sameorigin
+x-li-content-length:2061
+x-li-fabric:prod-ltx1
+x-li-pop:prod-tln1
+x-li-proto:http/2
+x-li-server-time:347
+x-li-service-worker-blacklist:control
+x-li-uuid:5IT/6l63EBWAsipyzioAAA==
+x-restli-protocol-version:2.0.0
+x-xss-protection:1; mode=block
+Request Headers
+:authority:www.linkedin.com
+:method:GET
+:path:/voyager/api/relationships/invitationViews?count=10&includeInsights=true&q=receivedInvitation&start=0
+:scheme:https
+accept:application/vnd.linkedin.normalized+json
+accept-encoding:gzip, deflate, br
+accept-language:tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7
+cookie:bcookie="v=2&61aa9c60-0d6e-44c4-8957-eb6950c265c4"; bscookie="v=1&201705261426396b3561a5-04bd-41d3-892e-8c1606a56e98AQEK-xJp-5q3k5t9iK2oVL6lRBYFdqbe"; visit="v=1&M"; __ssid=30ecfe77-15c4-4bfa-8854-becc61c511b6; share_setting=PUBLIC; PLAY_SESSION=51884da7dcb8e6ba675f039975dbc48f56ca8d9c-chsInfo=dbf08229-1643-4d15-893f-9ec1e79ffa48+premium_homepage_identity_upsell; liap=true; JSESSIONID="ajax:6133000191409009492"; lil-lang=en_US; _ga=GA1.2.965168173.1496231547; lang="v=2&lang=tr-tr"; sdsc=22%3A1%2C1516006654922%7ECONN%2C0lXoNJlP0c9M7o%2FK0%2BA%2F8ILDNsHo%3D; li_at=AQEDAQQr_GYDiWFoAAABYCBFPrUAAAFhigAP8FYAAke0gtswjUxlJCIXnHngFrITbgqh605nzQrwEyNMdCkvtm1Dpd4y3Sx2vinx_bwKKkRGOWLRt15xF5dtE0Zn55BieF_NYuYTpyzwL8VFG6KndR37; sl="v=1&5zAH2"; _gat=1; lidc="b=TB26:g=1299:u=107:i=1517914685:t=1517947666:s=AQG8xSE-mVcNGas-vfLMPp7mJY6F5H42"; _lipt=CwEAAAFhasQGDkMkV7AO0oC5CLh1Ek82_TUGrzxrbMrrN4sfc-_FIdORf6h_uED2f9wiyzY1ViB3IKU7dkzlKwkk4EzBE54kpASB_JwjAmopzTd9gdm1xgw-l-3gSgZ1J7Hsa38BbyMa6arRIoOe7mmkGzn5VpbuGWRJnvpiFb7FiTw2gApKOthTZEM6X_t3ah4SDitCivBDrqvlm34CNTt64R_HmuThrjcA72GK1NmZ3RAVcm7WF-i0gf9fOntB3QsjD15FiQ6zazc7OvKA_wXbfEjM8lL6HF1_3WJ-xAwIRRT5QBot_IsrE_FHGpaCkNl29GPXmlYhGkRwu2l6jdsawqTo2f0ImyxifbEHFCNxSUZPndh9N4Y7B_GG6dQoRUtJWPxY51dL-dOnd2wUA_pMX8YP7QD-OBg6NWQGlUYi-gIyNxDJyx4
+csrf-token:ajax:6133000191409009492
+referer:https://www.linkedin.com/mynetwork/invitation-manager/sent/
+user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+x-li-lang:tr_TR
+x-li-page-instance:urn:li:page:d_flagship3_people_invitations;oAfVwDceQ7ifMp0Yabwr/w==
+x-li-track:{"clientVersion":"1.1.*","osName":"web","timezoneOffset":3,"deviceFormFactor":"DESKTOP","mpName":"voyager-web"}
+x-requested-with:XMLHttpRequest
+x-restli-protocol-version:2.0.0
+Query String Parameters
+view source
+view URL encoded
+count:10
+includeInsights:true
+q:receivedInvitation
+start:0
